@@ -7,8 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ashay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enashay)](https://www.linkedin.com/in/enashay) [![Gmail Badge](https://img.shields.io/badge/-en.ashya.singh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:en.ashya.singh@gmail.com)](mailto:en.ashya.singh@gmail.com) [![ResearchGatel](https://img.shields.io/badge/ResearchGate-Ashay-green)](https://www.researchgate.net/profile/Ashay-Singh-2)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en-ashay" alt="Ashay Singh" /> </p>
 
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
-
+<!-- <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+ -->
 ## :computer: Technologies I Love
 * Python
 * Machine Learning
