@@ -55,7 +55,7 @@
  
 ## Other Stuff
   - :octocat: [My Resume](https://www.dropbox.com/s/rs6xb1ulllyqahd/Resume.pdf?dl=0)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.
+  
 
 ![Ashay's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-ashay&count_private=true)
 )
