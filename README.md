@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://cdn-images-1.medium.com/max/918/1*U3WRRwLx3zeDkHmIVGLJdw.gif' alt = 'Awesome Matrix Code' width=550 align='right'/>
+<img src = 'https://d1aueex22ha5si.cloudfront.net/Conference/1209/BackGround/Machine%20Learning-1599808127617.gif' alt = 'Awesome Matrix Code' width=350 align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ashay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enashay)](https://www.linkedin.com/in/enashay) [![Gmail Badge](https://img.shields.io/badge/-en.ashya.singh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:en.ashya.singh@gmail.com)](mailto:en.ashya.singh@gmail.com) [![ResearchGatel](https://img.shields.io/badge/ResearchGate-Ashay-green)](https://www.researchgate.net/profile/Ashay-Singh-2)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en-ashay" alt="Ashay Singh" /> </p>
