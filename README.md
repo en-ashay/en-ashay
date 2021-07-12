@@ -4,7 +4,7 @@
 
 <img src = 'https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966' alt = 'Awesome Matrix Code' width=350 align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ashay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enashay)](https://www.linkedin.com/in/enashay) [![Gmail Badge](https://img.shields.io/badge/-en.ashya.singh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:en.ashya.singh@gmail.com)](mailto:en.ashya.singh@gmail.com) [![ResearchGatel](https://img.shields.io/badge/ResearchGate-Ashay-green)](https://www.researchgate.net/profile/Ashay-Singh-2)
+[![Linkedin Badge](https://img.shields.io/badge/-Ashay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enashay)](https://www.linkedin.com/in/enashay) [![Gmail Badge](https://img.shields.io/badge/-en.ashya.singh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: en.ashya.singh@gmail.com)](mailto:en.ashya.singh@gmail.com) [![ResearchGatel](https://img.shields.io/badge/ResearchGate-Ashay-green)](https://www.researchgate.net/profile/Ashay-Singh-2)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en-ashay" alt="Ashay Singh" /> </p>
 
 <!-- <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
