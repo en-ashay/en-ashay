@@ -28,11 +28,11 @@
  
  ## Who am I?
  ```python
- class WhoAmI:
+ class AboutMe:
  	user = 'Ashay Singh'
 		current_edu = "Bachelors(Hons) in CSE"
 		hobbies = [
-				'Reading Pyscology and human behaviour based Novels',
+				'Reading/Watching Pyscology and human behaviour based topics',
 				'Watching Anime',
 				'BeatBoxing'
 				'Being up all Night chasing that ONE BUG...'
@@ -42,7 +42,7 @@
     city="**Planning**" if Covid=="False" else "Lucknow-India"  
 		return city
 	
-	def Ambitions():
+	def Goals():
 		Learn_a_Foreign_Language()
 		Build_Explainable_and _bias_Free_AI_Systems()
 		# Assume 10 more awesome ambitions here  ;)
