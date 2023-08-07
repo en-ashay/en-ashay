@@ -30,7 +30,7 @@
  ```python
  class AboutMe:
  	user = 'Ashay Singh'
-		current_edu = "Bachelors(Hons) in CSE"
+		current_edu = "Masters in ML and Information Systems"
 		hobbies = [
 				'Reading/Watching Pyscology and human behaviour based topics',
 				'Watching Anime',
@@ -39,11 +39,11 @@
 			]
 	
 	def getCity():
-    city="**Planning**" if Covid=="False" else "Lucknow-India"  
+    city="**Oslo**" if thesis_location=="Simula" else "Halden"  
 		return city
 	
 	def Goals():
-		Learn_a_Foreign_Language()
+		Learn_Norwegian()
 		Build_Explainable_and _bias_Free_AI_Systems()
 		# Assume 10 more awesome ambitions here  ;)
 	
