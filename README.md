@@ -35,7 +35,7 @@
 				'Reading/Watching Pyscology and human behaviour based topics',
 				'Watching Anime',
 				'BeatBoxing'
-				'Being up all Night chasing that ONE BUG...'
+				'**Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
