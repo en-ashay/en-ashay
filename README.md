@@ -50,7 +50,7 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **ML/DL apps on AWS ** and working up on polishing my skills 🌱 in **Statistical Machine Learning**.
+ * I'm currently working on 🔭  **Evaluating Privacy of Syntheic generated data** and working up on polishing my skills 🌱 in ** Generative AI**.
  * Getting Started with Docker and the DevOps!!
  
 ## Other Stuff
