@@ -15,7 +15,7 @@
 * Data Science
 * Computer Vision
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sajal2692&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=en-ashay&layout=compact">
 
 ## Tools & Libraries
 <img src = 'https://github.com/hussainweb/hussainweb/blob/main/icons/python.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/aws.svg' width='30'/><img src = 'https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/bitbucket.svg' width='30'/>
@@ -45,6 +45,7 @@
 	def Goals():
 		Learn_Norwegian()
 		Build_Explainable_and _bias_Free_AI_Systems()
+		Explore LLMs and MLOps
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
@@ -54,7 +55,7 @@
  * Getting Started with Docker and the DevOps!!
  
 ## Other Stuff
-  - :octocat: [My Resume](https://www.dropbox.com/s/rs6xb1ulllyqahd/Resume.pdf?dl=0)
+  - :octocat: [My Resume]([https://www.dropbox.com/s/rs6xb1ulllyqahd/Resume.pdf?dl=0](https://www.dropbox.com/scl/fi/pefik9h1lkqkccfm7xzas/cv.pdf?rlkey=vujigos6p7qu9l1xi3s4cmbj7&dl=0))
   
 
 ![Ashay's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-ashay&count_private=true)
