@@ -2,7 +2,7 @@
 
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
-<img src = 'https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966' alt = 'Awesome Matrix Code' width=350 align='right'/>
+<img src = "https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width=350 align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ashay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enashay)](https://www.linkedin.com/in/en-ashay) [![Gmail Badge](https://img.shields.io/badge/-en.ashya.singh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:en.ashya.singh@gmail.com)](mailto:en.ashya.singh@gmail.com) [![ResearchGatel](https://img.shields.io/badge/ResearchGate-Ashay-green)](https://www.researchgate.net/profile/Ashay-Singh-2)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en-ashay" alt="Ashay Singh" /> </p>
@@ -32,27 +32,29 @@
  	user = 'Ashay Singh'
 		current_edu = "Masters in ML and Information Systems"
 		hobbies = [
-				'Reading/Watching Pyscology and human behaviour based topics',
-				'Watching Anime',
+				'Reading/Watching Pyscology and human behaviour based shows/books',
+				'Ice Skating',
 				'BeatBoxing'
+				'Meeting with the hiking group every weekend"
 				'**Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-    city="**Oslo**" if thesis_location=="Simula" else "Halden"  
+                city="**Oslo**" if ( thesis_location=="Simula" and day!="weekend") else "Halden"  
 		return city
 	
 	def Goals():
-		Learn_Norwegian()
+		Reach Norsk level B1-B2 by September 2024()
 		Build_Explainable_and _bias_Free_AI_Systems()
 		Explore LLMs and MLOps
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
-## Current Works
+## Current Woring on
  * I'm currently working on 🔭  **Evaluating Privacy of Syntheic generated data** and working up on polishing my skills 🌱 in ** Generative AI**.
- * Getting Started with Docker and the DevOps!!
+ * Getting Started with Docker and Kunernetes for DevOps!!
+ * Alignment of Large Language Models(LLM).
  
 ## Other Stuff
   - :octocat: [My Resume]([https://www.dropbox.com/s/rs6xb1ulllyqahd/Resume.pdf?dl=0](https://www.dropbox.com/scl/fi/pefik9h1lkqkccfm7xzas/cv.pdf?rlkey=vujigos6p7qu9l1xi3s4cmbj7&dl=0))
