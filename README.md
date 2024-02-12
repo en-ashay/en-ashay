@@ -14,6 +14,7 @@
 * Machine Learning
 * Data Science
 * Computer Vision
+* LLMs(Large Language Models)
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=en-ashay&layout=compact">
 
@@ -57,10 +58,10 @@
  * Alignment of Large Language Models(LLM).
  
 ## Other Stuff
-  - :octocat: [My Resume]([https://www.dropbox.com/s/rs6xb1ulllyqahd/Resume.pdf?dl=0](https://www.dropbox.com/scl/fi/pefik9h1lkqkccfm7xzas/cv.pdf?rlkey=vujigos6p7qu9l1xi3s4cmbj7&dl=0))
+  - :octocat: [My Resume](https://www.dropbox.com/s/rs6xb1ulllyqahd/Resume.pdf?dl=0](https://www.dropbox.com/scl/fi/pefik9h1lkqkccfm7xzas/cv.pdf?rlkey=vujigos6p7qu9l1xi3s4cmbj7&dl=0)](https://www.dropbox.com/s/rs6xb1ulllyqahd/Resume.pdf?dl=0 )
   
 
 ![Ashay's GitHub stats](https://github-readme-stats.vercel.app/api?username=en-ashay&count_private=true)
-)
+
  
  
